@@ -1,0 +1,46 @@
+/*html {
+    color: #444;
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    background: rgb(235, 242, 242);
+}*/
+
+body { 
+    padding-top: 70px;
+}
+
+code {
+    background-color: #444;
+    font-size: 90%;
+    border-radius: 5px;
+    color: white;
+    padding: 3px 4px;
+    word-break: break-word;
+}
+
+.head {
+	font-size: 1.5rem;
+}
+
+.navbar-dark .navbar-brand {
+	color: black;
+}
+
+.emojis {
+    display: table;
+    padding: 0 0 1em;
+    font-family: monospace;
+    
+}
+
+.emoji {
+    list-style: none;
+    float: left;
+    width: 270px;
+    padding-right: 25px;
+    overflow-wrap: break-word;
+    margin-bottom: .5em;
+    font-size: 15px;
+}
+
